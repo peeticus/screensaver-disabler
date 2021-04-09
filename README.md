@@ -1,7 +1,13 @@
 # Windows ScreenSaver Disabler
 
 Does your organization enforce a policy of password protected screensaver kicking-in
-every five minutes, and you can't change it? If so, this utility is for you.
+every five minutes, and you can't change it? 
+
+Or maybe like me, you are doing a little bit of digital currency mining, but Windows
+likes to put your card in a reduced power state after a few minutes, despite your best
+efforts at modifying sleep settings.
+
+If so, this utility is for you.
 
 Some programs like the Windows Media Player, or PowerPoint in presentation mode 
 prevent triggering the screensaver. With good reason. But you may be doing 
